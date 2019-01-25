@@ -1,6 +1,6 @@
 {
   "name": "learngit",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "learn git,varities of trials",
   "main": "index.js",
   "scripts": {
